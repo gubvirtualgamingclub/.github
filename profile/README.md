@@ -113,34 +113,34 @@ GUCC Virtual Gaming Society (VGS) is **Green University of Bangladesh's official
 <table>
 <tr>
 <td align="center">
-<img src="assets/images/collaborators/aorus.png" width="80" height="40" alt="AORUS"/>
+<img src="../assets/collaborators_logo/aorus.png" width="80" height="40" alt="AORUS"/>
 <br><strong>GIGABYTE AORUS</strong>
 <br><sub>Main Sponsor</sub>
 </td>
 <td align="center">
-<img src="assets/images/collaborators/pcb.png" width="80" height="40" alt="PC Builder BD"/>
+<img src="../assets/collaborators_logo/pcb.png" width="80" height="40" alt="PC Builder BD"/>
 <br><strong>PC Builder BD</strong>
 <br><sub>Tech Partner</sub>
 </td>
 <td align="center">
-<img src="assets/images/collaborators/trendbeat.png" width="80" height="40" alt="Trend Beat"/>
+<img src="../assets/collaborators_logo/trendbeat.png" width="80" height="40" alt="Trend Beat"/>
 <br><strong>Trend Beat</strong>
 <br><sub>Media Partner</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="assets/images/collaborators/esnbd.png" width="80" height="40" alt="ESN BD"/>
+<img src="../assets/collaborators_logo/esnbd.png" width="80" height="40" alt="ESN BD"/>
 <br><strong>ESN Bangladesh</strong>
 <br><sub>E-Sports Partner</sub>
 </td>
 <td align="center">
-<img src="assets/images/collaborators/nextgen.png" width="80" height="40" alt="NextGen"/>
+<img src="../assets/collaborators_logo/nextgen.png" width="80" height="40" alt="NextGen"/>
 <br><strong>NextGen</strong>
 <br><sub>Technology Partner</sub>
 </td>
 <td align="center">
-<img src="assets/images/collaborators/royalmoon.png" width="80" height="40" alt="Royal Moon"/>
+<img src="../assets/collaborators_logo/royalmoon.png" width="80" height="40" alt="Royal Moon"/>
 <br><strong>Royal Moon</strong>
 <br><sub>Gaming Partner</sub>
 </td>
