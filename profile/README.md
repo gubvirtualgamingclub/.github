@@ -56,7 +56,7 @@ GUCC Virtual Gaming Society (VGS) is **Green University of Bangladesh's official
 <table>
 <tr>
 <td align="center">
-<img src="assets/images/games/valorant.png" width="60" height="60" alt="VALORANT"/>
+<img src="../assets/games_logo/valorant.png" width="60" height="60" alt="VALORANT"/>
 <br><strong>VALORANT</strong>
 <br><sub>5v5 Tactical FPS</sub>
 </td>
