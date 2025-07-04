@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![VGS Banner](assets/images/banners/gaming-team.png)
+![VGS Banner](../assets/banner/gaming-team.png)
 
 [![Club Status](https://img.shields.io/badge/Club%20Status-Active-brightgreen?style=for-the-badge&logo=gamepad&logoColor=white)](https://github.com/gucc-vgs)
 [![Founded](https://img.shields.io/badge/Founded-2025-blue?style=for-the-badge&logo=calendar&logoColor=white)](https://github.com/gucc-vgs)
