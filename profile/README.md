@@ -195,22 +195,6 @@ GUCC Virtual Gaming Society (VGS) is **Green University of Bangladesh's official
 
 ---
 
-## 🚀 Latest Updates & News
-
-<div align="center">
-
-### 📢 What's Happening Now
-
-- 🔥 **Upcoming**: CSE Gaming Fest MLBB
-- 🛠️ **Website Under Active Development**
-- 🚀 **Official Launch**: The Elder Scrolls IV: Oblivion Remastered
-- 🎮 **Game Review**: Assassin's Creed Shadow
-- 🏆 **Championship**: Jarno Opmeer Wins The F1 Esports World Championship 2025!
-
-</div>
-
----
-
 ## 🎯 How to Join GUCC VGS
 
 <div align="center">
