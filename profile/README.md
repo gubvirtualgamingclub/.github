@@ -61,39 +61,39 @@ GUCC Virtual Gaming Society (VGS) is **Green University of Bangladesh's official
 <br><sub>5v5 Tactical FPS</sub>
 </td>
 <td align="center">
-<img src="assets/images/games/codm.png" width="60" height="60" alt="CODM"/>
+<img src="../assets/games_logo/codm.png" width="60" height="60" alt="CODM"/>
 <br><strong>CODM</strong>
 <br><sub>Mobile FPS/BR</sub>
 </td>
 <td align="center">
-<img src="assets/images/games/pubgmobile.png" width="60" height="60" alt="PUBG Mobile"/>
+<img src="../assets/games_logo/pubgmobile.png" width="60" height="60" alt="PUBG Mobile"/>
 <br><strong>PUBG Mobile</strong>
 <br><sub>Battle Royale</sub>
 </td>
 <td align="center">
-<img src="assets/images/games/mobilelegends.png" width="60" height="60" alt="Mobile Legends"/>
+<img src="../assets/games_logo/mobilelegends.png" width="60" height="60" alt="Mobile Legends"/>
 <br><strong>ML: Bang Bang</strong>
 <br><sub>MOBA</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="assets/images/games/chess.png" width="60" height="60" alt="Chess"/>
+<img src="../assets/games_logo/chess.png" width="60" height="60" alt="Chess"/>
 <br><strong>Chess</strong>
 <br><sub>Strategy Board Game</sub>
 </td>
 <td align="center">
-<img src="assets/images/games/fifa19.png" width="60" height="60" alt="FIFA 19"/>
+<img src="../assets/games_logo/fifa19.png" width="60" height="60" alt="FIFA 19"/>
 <br><strong>FIFA 19</strong>
 <br><sub>Football Simulation</sub>
 </td>
 <td align="center">
-<img src="assets/images/games/freefire.png" width="60" height="60" alt="Free Fire"/>
+<img src="../assets/games_logo/freefire.png" width="60" height="60" alt="Free Fire"/>
 <br><strong>Free Fire</strong>
 <br><sub>Mobile Battle Royale</sub>
 </td>
 <td align="center">
-<img src="assets/images/games/carrom.png" width="60" height="60" alt="Carrom"/>
+<img src="../assets/games_logo/carrom.png" width="60" height="60" alt="Carrom"/>
 <br><strong>Carrom</strong>
 <br><sub>Traditional Board Game</sub>
 </td>
